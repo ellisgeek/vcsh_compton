@@ -1,0 +1,5 @@
+*
+!/.config
+!/.config/compton.conf
+!/.gitignore.d
+!/.gitignore.d/compton
